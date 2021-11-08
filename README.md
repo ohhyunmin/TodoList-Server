@@ -75,6 +75,4 @@
 
 13) MVC 형태로 프로젝트를 구성하고, RestAPI 와 lombok, jpa 대해 구체적으로 다루어 보았고 jpa 를 이용함으로써 DB 연동에 필요한 코드들이 굉장히 많으 줄어든 것을 다시 한번 느끼는데 좋은 경험이 되었습니다. <Br>
 
-GitHub Source Code Location : https://github.com/ohhyunmin/TodoList-Server
-
 
